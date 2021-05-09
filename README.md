@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Podcastr preview" src=".github/preview.png" width="100%">
+  <img alt="Podcastr preview" src=".github/preview.gif" width="100%">
 </p>
 
 
